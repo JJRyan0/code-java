@@ -1,5 +1,5 @@
 
-//Development A Basic Producer in Java for Kafka Producer API
+//How to develop A Basic Producer in Java for Kafka Producer API
 
 package clients;
 
